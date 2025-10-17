@@ -1,4 +1,4 @@
-Project Idea: “Predicting Student Performance”
+🌿Project Idea: “Predicting Student Performance”
 
 🎯 Goal
 
